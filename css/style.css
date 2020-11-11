@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&family=Lobster&display=swap');
+.box
+{
+    border: 1px solid blue;
+    height: 30em;
+    padding: 10px;
+}
+.product
+{
+    border: 1px solid goldenrod;
+    height: 5em;
+}
+.navbar-brand
+{
+ /* font-family: 'Josefin Sans', sans-serif;*/
+ font-family: 'Lobster', cursive;
+ font-size: 35px;
+}
+
+.search
+{
+    border-radius: 32px;
+    background-color: white;
+    box-shadow: 1px 1px 3px grey !important;
+    border: none;
+    padding: 7px;
+}
+
+.form-control
+{
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+}
+
+.fa-search
+{
+    font-size: 20px;
+    color: gray;
+}
